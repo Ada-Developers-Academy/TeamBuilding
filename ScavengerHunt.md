@@ -5,7 +5,7 @@ __(You must have at least one team member in each picture)__
 - [ ] A tour group
 - [ ] A book store
 - [ ] A book about Seattle
-- [ ] Odd art in the central library
+- [ ] A novel that at least 3 of you have read at the central library
 - [ ] The campiest movie you can find at the central library
 - [ ] A pet that isn't a dog
 - [ ] A burlesque flyer
