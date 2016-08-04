@@ -45,7 +45,6 @@ __(You must have at least one team member in each picture)__
 - [ ] Freeway park
 - [ ] A working pinball or arcade machine
 - [ ] Ostentatious recycling
-- [ ] People waiting in line at Dick's
 - [ ] Put some gum on the gum wall
 - [ ] A Seattle-centric tattoo
 - [ ] SAM
