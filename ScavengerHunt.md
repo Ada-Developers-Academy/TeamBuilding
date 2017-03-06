@@ -10,7 +10,7 @@ __(You must have at least one team member in each picture)__
 - [ ] A pet that isn't a dog
 - [ ] A burlesque flyer
 - [ ] Flyer for a show that happened over a year ago
-- [ ] Chihuli glass art
+- [ ] Chihuly glass art
 - [ ] A climbing wall
 - [ ] A farmer's market
 - [ ] A fresh donut
